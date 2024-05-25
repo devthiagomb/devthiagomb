@@ -25,5 +25,5 @@ Sou um desenvolvedor full-stack e criador de conteúdo construindo projetos para
 
 ### 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devthiagomb&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devthiagomb&theme=dracula&show_icons=true)
 
