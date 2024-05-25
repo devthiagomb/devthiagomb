@@ -25,5 +25,4 @@ Sou um desenvolvedor full-stack e criador de conteúdo construindo projetos para
 
 ### 📊 Stats
 
-![Chenee GitHub stats](https://github-readme-stats.vercel.app/api?username=devthiagomb_icons=true&theme=radical)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devthiagomb)](https://github.com/anuraghazra/github-readme-stats)
