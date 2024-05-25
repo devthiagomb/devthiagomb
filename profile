@@ -1,0 +1,1 @@
+Sou um desenvolvedor independente full-stack e criador de conteúdo. Todos os projetos de codificação são construídos desde o início, desde o planejamento e design até a solução de problemas da vida real com código. 
