@@ -25,5 +25,5 @@ Sou um desenvolvedor full-stack e criador de conteúdo construindo projetos para
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=devthiagomb_icons=true&theme=dracula)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chenee_icons=true&theme=dracula)
 
